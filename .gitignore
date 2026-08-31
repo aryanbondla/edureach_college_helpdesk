@@ -1,0 +1,5 @@
+testsprite_tests\tmp\config.json
+.env
+.env.*
+node_modules/
+dist/
